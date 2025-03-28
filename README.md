@@ -1,4 +1,3 @@
-Sure! Below is the README.md file content formatted as code. Copy and paste it directly into your README.md file.
 
 # ☕ Coffee App
 
@@ -105,5 +104,3 @@ Learn More
 This project is MIT licensed.
 
 Feel free to star ⭐ the repo if you like it!
-
-Just copy and paste this into your **README.md** file. Let me know if you need any changes! 🚀
