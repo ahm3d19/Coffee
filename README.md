@@ -4,6 +4,11 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).  
 Coffee is a high-performance coffee ordering app built with **React Redux**, optimized to maintain a **constant 60 FPS** on both the JS and UI threads.  
 
+##📲 Demo Simulator
+
+https://github.com/user-attachments/assets/e733b08e-a82d-47bc-b2a7-5c9ef3f15c7a
+
+
 ## 🚀 Features  
 
 - **🏠 Home Screen** – Browse coffee options with a smooth UI.  
